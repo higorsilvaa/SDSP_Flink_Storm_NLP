@@ -1,4 +1,4 @@
 static String consumer_key = "u4eomKs8Fryv1TBM22Urrv3EO";
-static String consumer_secret_key = "R8KADkRWJTKHvp2P9GTgWSj7f1DKfqly0fJ5fmVyFky91SdzVs";
+static String consumer_secret = "R8KADkRWJTKHvp2P9GTgWSj7f1DKfqly0fJ5fmVyFky91SdzVs";
 static String token = "854465359918845952-hu8WPA28weaB6GFZ3lU572FcYqeQV9n";
 static String token_secret = "7WIKFXiJ7DpuJoGDTF1Uz11QzE5Pu3wRBQhM1KnKs2Y9t";
