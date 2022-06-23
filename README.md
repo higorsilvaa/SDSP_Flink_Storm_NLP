@@ -19,3 +19,5 @@ As a result, it's provide insights about the sentiment of war and about the peop
 
 The application was made in Java, and to generate the analysis about NLP and FLink performance was used Python.
 To run the analitic code, just uses jupyter to see the graphs and annotations.
+
+<strong>Obs.: the keys to authenticate on Twitter are not provide, so you have to generate your own keys. </strong>
