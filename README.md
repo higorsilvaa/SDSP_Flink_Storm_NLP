@@ -30,3 +30,7 @@ The application was made in Java, and to generate the analysis about NLP and FLi
 To run the analitic code, just uses jupyter to see the graphs and annotations.
 
 <strong>Obs.: the keys to authenticate on Twitter are not provide, so you have to generate your own keys. </strong>
+
+### To Do
+    - Citar a bib de NLP
+    - Citar as bibs do Flink
