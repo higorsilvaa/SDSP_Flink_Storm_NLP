@@ -9,7 +9,7 @@
 
 ### Proposal 
 
-In this work, we aim to process tweets about the war in Ukraine to identify the which adjectives are used to describe the main people involved in the war, like Putin, Zelensky and Biden.
+In this work, we process tweets about the war in Ukraine to identify the which adjectives are used to describe the main people involved in the war, like Putin, Zelensky and Biden.
 To do that, Flink API was used to get the tweets in real time, in other words, stream processing.
 In order to deal with the text from tweets, Natural Language Processing (NLP) pipeline was used to clear, select person names as adjectives.
 To analyze the Flink performamce, latency and throughput was colected.
