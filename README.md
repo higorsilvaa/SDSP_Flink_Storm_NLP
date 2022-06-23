@@ -5,7 +5,16 @@
     - Identify **PERSON** names using Named Entity Recognition (NER pre-trained model);
 
 ### Twitter Search
-    - Search keys that were used: "War", "Putin", "Ukraine", "Russia", "Zelensky", "USA", "United States", "U.S.", "U.S.A.".
+    Search keys that were used:
+        - "War"
+        - "Putin"
+        - "Ukraine"
+        - "Russia"
+        - "Zelensky"
+        - "USA"
+        - "United States"
+        - "U.S."
+        - "U.S.A.".
 
 ### Proposal 
 
